@@ -1,0 +1,23 @@
+::selection {
+
+    background: #FF6C60;
+    color: #fff;
+}
+::-moz-selection {
+    background: #FF6C60;
+    color: #fff;
+}
+
+/* Menu */
+/* #menus {
+	background-color:#2a2a2a;
+	height:638px;
+} */
+.header{
+	background: url("../images/header-back.jpg") no-repeat !important;
+}
+.navbar-default {
+    background-color: #446cb3 !important;
+    border-color: none !important;
+    color: #fff !important;
+}
